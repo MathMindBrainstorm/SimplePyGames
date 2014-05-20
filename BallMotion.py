@@ -10,6 +10,7 @@ WIDTH = 600
 HEIGHT = 400
 BALL_RADIUS = 20
 
+#Initializing variables
 init_pos = [WIDTH / 2, HEIGHT / 2]
 vel = [0, 3]  # pixels per tick
 time = 0
