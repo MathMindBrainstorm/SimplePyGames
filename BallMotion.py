@@ -1,6 +1,8 @@
 __author__ = 'wanderson'
 # Ball motion with an explicit timer
 
+# I use the simpleguitk module to port the codeskulpor internet
+# code to desktop python code.
 import simpleguitk as simplegui
 
 # Initialize globals

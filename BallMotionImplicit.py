@@ -3,7 +3,7 @@ __author__ = 'wanderson'
 
 import simpleguitk as simplegui
 
-# Initialize globals
+# I initialize the globals variables with UPPERCASE NAME style
 WIDTH = 600
 HEIGHT = 400
 BALL_RADIUS = 20
